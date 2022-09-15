@@ -1,8 +1,8 @@
 ---
-title: Flags Definitions/GUI
+title: Flags
 description: ''
-position: 15
-category: Basics
+position: 24
+category: Advanced Usage
 ---
 
 # Flags
