@@ -1,5 +1,8 @@
 ---
-sidebar_position: 1
+title: Getting Started 
+description: ''
+position: 2
+category: Basics
 ---
 
 :warning: In this page, we will explain how to start using GriefDefender in your Bukkit/Sponge server step by step. :warning: 

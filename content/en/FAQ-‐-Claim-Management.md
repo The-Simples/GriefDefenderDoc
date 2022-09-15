@@ -1,5 +1,8 @@
 ---
-sidebar_position: 4
+title: FAQ - Claim Management
+description: ''
+position: 5
+category: Basics
 ---
 
 ## 1. How do allow all users to create claims for free?**

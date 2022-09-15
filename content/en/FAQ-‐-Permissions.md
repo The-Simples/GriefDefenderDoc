@@ -1,5 +1,8 @@
 ---
-sidebar_position: 7
+title: FAQ - Permissions
+description: ''
+position: 8
+category: Basics
 ---
 
 ## 1. How do I grant a specific group trust to ALL claims globally?

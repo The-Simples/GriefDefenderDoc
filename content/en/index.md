@@ -1,8 +1,9 @@
 ---
-sidebar_position: 1
+title: Welcome
+description: ''
+position: 1
+category: ''
 ---
-
-# Welcome
 
 [Chinese(Simplified)](https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://github.com/bloodmc/GriefDefender/wiki) -
 [Chinese(Traditional)](https://translate.google.com/translate?sl=auto&tl=zh-TW&u=https://github.com/bloodmc/GriefDefender/wiki) -

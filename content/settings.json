@@ -1,0 +1,9 @@
+{
+  "title": "GriefDefender Wiki",
+  "url": "https://gd.potato-server.com",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "bloodmc/GriefDefender"
+}

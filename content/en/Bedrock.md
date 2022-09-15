@@ -1,5 +1,8 @@
 ---
-sidebar_position: 8
+title: Bedrock
+description: ''
+position: 9
+category: Basics
 ---
 
 ## Bedrock

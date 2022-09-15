@@ -1,5 +1,8 @@
 ---
-sidebar_position: 2
+title: Configuration
+description: ''
+position: 3
+category: Basics
 ---
 
 ## Configuration
